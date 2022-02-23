@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Extracts of some letters from some gentlemen of quality in His Excellencies army concerning the state of the Kings army and their owne written to Mr. Richard Shute, a merchant in Woodstreet, Decem. 13, 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39095</idno>
+            <idno type="STC">Wing E3916</idno>
+            <idno type="STC">ESTC R34433</idno>
+            <idno type="EEBO-CITATION">14403832</idno>
+            <idno type="OCLC">ocm 14403832</idno>
+            <idno type="VID">102328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39095)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102328)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1058:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Extracts of some letters from some gentlemen of quality in His Excellencies army concerning the state of the Kings army and their owne written to Mr. Richard Shute, a merchant in Woodstreet, Decem. 13, 1642.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.B. &amp; R.S.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Decemb. 16, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102328:1" rendition="simple:additions"/>
+            <p>EXTRACTS OF SOME LETTERS From ſome Gentlemen of quality in his Excellencies ARMY, Concerning the ſtate of the Kings Ar<g ref="char:EOLhyphen"/>my and their owne.</p>
+            <p>Written to M<hi rend="sup">r.</hi> 
+               <hi>Richard Shute</hi> a Merchant in <hi>Woodſtreet. Decem.</hi> 13. 1642.</p>
+            <p>Printed for <hi>I.B.</hi> &amp; <hi>R. S. Decemb.</hi> 16. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter_extracts">
+            <pb facs="tcp:102328:2"/>
+            <pb facs="tcp:102328:2"/>
+            <head>EXTRACTS out of ſome LETTERS Concerning The ſtate of both Armies.</head>
+            <div type="extract">
+               <head>Decemb. <hi>13.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">W</seg>E heare of your diſtractions at <hi>London,</hi> but they diſcourage not, becauſe we know your a<g ref="char:EOLhyphen"/>bility to ſuppreſſe them; let the power of your Common Councell be improved, and let the more active in this Riot be proceeded againſt.</p>
+               <pb n="2" facs="tcp:102328:3"/>
+               <p>For the Kings Army, we little feare them, we heare ſo much of their needy and weake conditi<g ref="char:EOLhyphen"/>on. And we believe that their owne apprehenſions thereof move efficiently to this preſent mutinous accommodation, and we have cauſe to feare not onely that their faction work for it who are among you, but that of late divers are come from the Kings Army to <hi>London,</hi> to aſſiſt the preſent com<g ref="char:EOLhyphen"/>motions: Let your Courts of Guard be kept ſtrictly, for a knot of Cavaleeriſh faces were late<g ref="char:EOLhyphen"/>ly met towards you, who were over-heard to ſay, <hi>If this buſineſſe doe but hold on, they ſhould lay the Round-heads low.</hi>
+               </p>
+               <p>If the Kings Forces dare but move towards you, we ſhall not faile to be upon their backes. If you continue your incouragements towards us, we ſhall ſhortly fall on them at <hi>Reading</hi> or <hi>Oxford.</hi>
+               </p>
+            </div>
+            <div type="extract">
+               <head>
+                  <hi>Decemb.</hi> 12. 1642.</head>
+               <p>OUr laſt to you mentioned the buſineſſe of <hi>Marleborough</hi> taken by the Enemy, of which my Lord Generall received more particularly by one yeſterday, that the Towne had in it but forty compleatly armed men, the Forces expected from the Countrie under the Command of Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Baynton,</hi> being not yet come in to them. That the Kings Forces were about 4000. men, which came with Granadoes, Petards, and Drakes. Not<g ref="char:EOLhyphen"/>withſtanding
+<pb n="3" facs="tcp:102328:3"/>all their preparation, the Towne ſo oppoſed them they could not fire it, but by ſome boyes which crept into ſome thatched houſes, and ſo fired them. Which being ſo unexpected, ama<g ref="char:EOLhyphen"/>zed the people, who hopeleſſe with that weake force to keepe the Towne long, the armed men re<g ref="char:EOLhyphen"/>tired, and in the evening the Enemy entred, who there committed the ſame <hi>uncleane, inhumane,</hi> and <hi>cruell</hi> actions to the <hi>Women</hi> there, as their fellow devils have done in <hi>Ireland.</hi> They tooke above an hundred of the poore Country men priſoners, pil<g ref="char:EOLhyphen"/>laged throughout the Towne, ſlew only two, but loſt divers of their owne, redeemed the Lord <hi>Sey<g ref="char:EOLhyphen"/>mers</hi> Lady, and ſo retreated for <hi>Oxford.</hi> Our For<g ref="char:EOLhyphen"/>ces then at <hi>Newbury,</hi> marched towards <hi>Wantage,</hi> fell upon their Reare, tooke divers priſoners, ſlew about forty, tooke alſo moſt of the pillage, they had gotten from <hi>Marleborough.</hi>
+               </p>
+               <p>We heare from <hi>Oxford,</hi> that the King is in great ſtraits, the Mint quite dry; the complaint is not the Common Souldiers onely, but the Lords, and the Kings himſelfe, they are ſo much exhauſted, and as full of feares as wants. They ſend into all high wayes and poſſeſſe themſelves of ſuch droves of Beaſts as they meet withall, and ſell Robin-Hoods bargaines againe to raiſe money for them. We expect every moment to heare from our <hi>New<g ref="char:EOLhyphen"/>bury</hi> party, wherof we ſhall render you an account as occaſion offers.</p>
+            </div>
+            <div type="extract">
+               <pb n="4" facs="tcp:102328:4"/>
+               <head>December <hi>11.</hi>
+               </head>
+               <p>MY loving Friend, belike your Citizens won<g ref="char:EOLhyphen"/>der and blame us that no more is done by our Army; aſſure your ſelfe the whole buſineſſe of the Army is managed by ſuch as are both wiſe and faithfull to the cauſe; and as much is done as can be done; we doe but waite for opportunities; <hi>Marleborough</hi> is taken by the Kings party, with the loſſe of many of their men, and of but two of our horſe, many taken priſoners; the honeſt women baſely abuſed, ſtript naked and worſe: ours have taken many of theirs to the number of 30. &amp; of five Waggons intercepted by Colonell <hi>Goodwin;</hi> wee have cauſe to wonder that the Citie ſhould bee ſo unlike themſelves, that when they have authority and power in their hands ſhould not dare to ſhew themſelves againſt the Malignant party, but rather chooſe to let the worke fall to the ground, and ruine themſelves and the whole kingdome, and engage God againſt them, rather then hazard the diſpleaſure of ſome great ones, enemies of God, whoſe breath is in their noſtrills. What? will they loſe the honour, the comfort and benefit of all they have done hitherto? will they repent of their goodneſſe? will they rather ſinke under the burthen, then have ſome of it, at leaſt upon their enemies ſhoulders? will they out of a baſe coward<g ref="char:EOLhyphen"/>ly ſpirit betray themſelves, and this glorious cauſe
+<pb n="5" facs="tcp:102328:4" rendition="simple:additions"/>into the hands of the Enemy prodigious ſottiſh<g ref="char:EOLhyphen"/>neſſe! I aſſure my ſelfe did many but know what ſtate the Kings Army is in, they would not ſo in<g ref="char:EOLhyphen"/>cline to accommodation. I met with ſpeciall in<g ref="char:EOLhyphen"/>telligence this day from one of the Kings Army concerning their preſent ſtate: he ingenuouſly con<g ref="char:EOLhyphen"/>feſſed they are in a very low caſe, money is ſpent, pouder is ſpent, the King is fain to ſell Oxen to buy proviſion for himſelfe, their horſe mightily worne out, their foot ready to mutiny every day, their Dragooners want Bootes, and many are without ſhoos or ſtockings: great feare is upon them, becauſe the Parliaments Army ſo purſues them, they com<g ref="char:EOLhyphen"/>plaine they can reſt no where they are ſo hunted up and downe; the ſpirits of the Lords with them were much downe, but the maine thing that diſ<g ref="char:EOLhyphen"/>courage them is the riſing of the Counties. What ſhall we have ſo faire a game and leeſe it for want of playing our Cards? If you would in ſtead of an accommodation drive home an aſſociation of Par<g ref="char:EOLhyphen"/>liament (or ſo many of them as would) and Ci<g ref="char:EOLhyphen"/>tie and Counties with the Lord Generall, the bu<g ref="char:EOLhyphen"/>ſineſſe through God would ſoone be done. The Lord direct you and bleſſe you in your indeavours and turne all croſſe Paſſages to good. The Lord accompliſh his owne worke in his owne way, by his owne meanes, in his owne time, and let us ſubſcribe to his wiſedome and ſubmit to his will; let us doe our duty, goe the world which way it will, and the Lord doe what hee pleaſe; let's not
+<pb n="6" facs="tcp:102328:5"/>trouble our ſelves about events, not torment our ſelves with what is not in our power to helpe; if the worſt come that can come, Gods work muſt goe on, the beſt is, our God lives and raignes, and our life hangs not upon any thing under heaven, but upon him that is above all. I reſt</p>
+               <closer>
+                  <dateline>
+                     <hi>Windſor,</hi> 
+                     <date>
+                        <hi>Decemb.</hi> 11.</date>
+                  </dateline>
+                  <signed>Yours in all love aſſurance.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102328:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
